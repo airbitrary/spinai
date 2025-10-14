@@ -1,7 +1,7 @@
 # Privacy Policy for Spin AI
 
-**Effective Date:** October 14, 2025  
-**Last Updated:** October 14, 2025
+**Effective Date:** October 15, 2025  
+**Last Updated:** October 15, 2025
 
 ## Overview
 
