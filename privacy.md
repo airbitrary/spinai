@@ -1,7 +1,7 @@
 # Privacy Policy for Spin AI
 
-**Effective Date:** October 15, 2025  
-**Last Updated:** October 15, 2025
+**Effective Date:** October 14, 2025  
+**Last Updated:** October 14, 2025
 
 ## Overview
 
@@ -23,7 +23,6 @@ We may automatically collect certain technical information:
 
 - **Device Information:** iOS version, device model, and app version for compatibility and support purposes
 - **App Performance Data:** Crash reports and error logs to improve app stability
-- **Audio Session Data:** Minimal audio session management for theme music playback (no recording)
 
 ### Apple Services Integration
 When you use certain features, Apple may collect information according to their privacy policy:
