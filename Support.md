@@ -9,7 +9,7 @@ Spin AI is a beautiful, intelligent decision-making app that helps you make choi
 ### 🎯 Smart Decision Making
 - **Pre-loaded Templates**: Jump right in with ready-to-use wheels for restaurants, activities, chores, and more
 - **AI-Powered Suggestions**: Let AI create wheel options based on your prompts
-- **Custom Wheels**: Create unlimited personalized wheels with your own options
+- **Custom Wheels**: Create upto 100 personalized wheels with your own options
 
 ### 🎨 Beautiful Themes
 - **Summer Festival**: Bright, vibrant colors with animated elements
@@ -33,7 +33,7 @@ Spin AI is a beautiful, intelligent decision-making app that helps you make choi
 ### Creating Custom Wheels
 1. **Tap the wheel** to open the editor
 2. **Add your options** - Type in your choices (up to 30 entries)
-3. **Use AI assistance** - Describe what you need and let AI suggest options
+3. **Use AI assistance** - Describe what you need and let AI suggest options (requires Apple Intelligence feature)
 4. **Save your wheel** - Store it in your personal collection
 
 ### Managing Your Collection
@@ -46,18 +46,16 @@ Spin AI is a beautiful, intelligent decision-making app that helps you make choi
 ### Free Trial
 - **7-day trial period** OR **50 free spins** (whichever comes first)
 - Access to all features during trial
-- No automatic subscription - one-time purchase only
+- No changes to trial experience
 
 ### Full Version Features
 - **Unlimited spins** - No restrictions on usage
 - **All themes** - Access to every visual theme
-- **Custom wheels** - Create and save unlimited wheel configurations
-- **Premium support** - Priority customer assistance
+- **Custom wheels** - Create and save upto 100 wheel configurations
 
 ### Pricing
-- **One-time purchase** - Check current pricing in the App Store
-- **No subscriptions** - Full ownership of the app
-- **Family Sharing** - Share with family members through Apple Family Sharing
+- **6-month access** - Check current pricing in the App Store
+- **Non-renewable subscription** - One-time payment for 6 months access
 
 ## Troubleshooting
 
@@ -73,6 +71,11 @@ Spin AI is a beautiful, intelligent decision-making app that helps you make choi
 - Check your internet connection
 - Try the "Restore Purchases" button if you've already purchased
 
+#### **Trial/Purchase Status Issues**
+- Check your purchase status in Settings
+- Use "Restore Purchases" if you've purchased on this Apple ID
+- Contact support if trial status appears incorrect
+
 #### **Spinning Performance**
 - Close other apps running in the background
 - Restart the app if spinning becomes sluggish
@@ -82,11 +85,6 @@ Spin AI is a beautiful, intelligent decision-making app that helps you make choi
 - Check your device volume settings
 - Verify the app's audio settings in the Settings menu
 - Toggle background music on/off to refresh audio
-
-#### **Trial/Purchase Status Issues**
-- Check your purchase status in Settings
-- Use "Restore Purchases" if you've purchased on this Apple ID
-- Contact support if trial status appears incorrect
 
 ### Feature Limitations in Trial Mode
 - Limited to 50 total spins or 7 days, whichever comes first
@@ -133,7 +131,7 @@ Spin AI is a beautiful, intelligent decision-making app that helps you make choi
 If you need additional assistance:
 
 **Email**: support@airbitrary.com 
-**Response Time**: Within 24-48 hours  
+**Response Time**: Within 24-72 hours  
 **Languages**: English  
 
 When contacting support, please include:
@@ -151,13 +149,13 @@ We value your feedback! Contact us with:
 ## Frequently Asked Questions
 
 ### Q: Is this a subscription app?
-**A**: No! Spin AI is a one-time purchase with no ongoing fees or subscriptions.
+**A**: Spin AI offers 6-month access through a non-renewable subscription with no auto-renewal.
 
 ### Q: Can I use the app offline?
 **A**: Yes, once downloaded, Spin AI works completely offline except for purchase-related functions.
 
 ### Q: How many wheels can I create?
-**A**: The full version allows unlimited wheel creation and storage.
+**A**: The full version allows 100 wheel creation and storage.
 
 ### Q: Can I share wheels with friends?
 **A**: Currently, wheels are stored locally on your device. Sharing features may be added in future updates.
@@ -168,12 +166,6 @@ We value your feedback! Contact us with:
 ### Q: Can I get a refund?
 **A**: Refunds are handled through Apple's App Store policies. Contact Apple Support for refund requests.
 
-## Version Information
-
-**Current Version**: 0.1.0  
-**Last Updated**: October 2025  
-**Compatibility**: iOS 18.0+  
-
 ## Legal
 
 This app complies with:
@@ -181,7 +173,7 @@ This app complies with:
 - iOS privacy requirements
 - StoreKit payment processing standards
 
-For our complete Privacy Policy, visit: [Link to your privacy policy]
+For our complete Privacy Policy, visit: ./Privacy.md
 
 ## Support Limitations
 
